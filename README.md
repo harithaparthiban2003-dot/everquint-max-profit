@@ -85,4 +85,4 @@ everquint-max-profit/
 
 This project demonstrates how Python can be used to
 explore possible construction sequences and identify
-the combination that
+the combination that maximizes earnings within a given time limit.
